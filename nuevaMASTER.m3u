@@ -325,10 +325,10 @@ http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="esp1 arg" GROUP-TITLE="MUSICA" TVG-LOGO=" " ,espn 1 arg
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-avc1_1499968=10008.m3u8
+#EXTINF:-1 tvg-id="esp1 arg" GROUP-TITLE="MUSICA" TVG-LOGO=" " ,ESPN 1 ARG
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY-mp4a_145200_eng=20000.m3u8
 
 
-#EXTINF:-1 tvg-id="canal4" GROUP-TITLE="MUSICA" TVG-LOGO=" " ,canal14
+#EXTINF:-1 tvg-id="canal4" GROUP-TITLE="MUSICA" TVG-LOGO=" " ,CANAL 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
 
